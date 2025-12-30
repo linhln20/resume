@@ -11,6 +11,12 @@ Personality:
 - Strong sense of responsibility and ability to work under pressure to meet deadlines.
 - Collaborative team player with experience in cross-functional environments.
 
+## Personal projects
+### 1. EasyGo
+Mockup: https://app.visily.ai/projects/d6d092f5-81e1-408e-b39a-22821eeafd2e/boards/2410495
+
+Document: Loading...
+
 ## Why I tranfer to a Business Analyst?
 My background is business, marketing. But I start with start up companies. I have opportunity to join in website development, where I have to become a fullstack as BA, Tester. 
 I started as a Tester, and throughout my work, I naturally stepped into BA responsibilities — asking questions, identifying system gaps, and proposing improvements. 
