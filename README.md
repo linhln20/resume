@@ -15,7 +15,8 @@ Personality:
 ### 1. EasyGo
 Mockup: https://app.visily.ai/projects/d6d092f5-81e1-408e-b39a-22821eeafd2e/boards/2410495
 
-Document: Loading...
+Document: 
+BRD + SRS: https://drive.google.com/file/d/1MgMCXU7Z6jl9lbHcdkR5GBVG54DeS6NZ/view?usp=sharing
 
 ## Why I tranfer to a Business Analyst?
 My background is business, marketing. But I start with start up companies. I have opportunity to join in website development, where I have to become a fullstack as BA, Tester. 
