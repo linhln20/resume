@@ -13,6 +13,10 @@ Personality:
 
 ## Personal projects
 ### 1. EasyGo
+EasyGo is a mobile application that aggregates and compares ride options from multiple ride-hailing providers, enabling users to search, compare prices, select trips, and book rides within a single platform.
+The project focuses on optimizing user experience, standardizing APIs across partners, and ensuring accurate fare comparison in real time.
+I participated as a Business Analyst, responsible for requirements analysis, user flow design, API definition, and documentation (BRD/SRS, use cases, BPMN).
+
 Mockup: https://app.visily.ai/projects/d6d092f5-81e1-408e-b39a-22821eeafd2e/boards/2410495
 
 Document: 
