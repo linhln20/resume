@@ -19,6 +19,7 @@ The project focuses on optimizing user experience, standardizing APIs across par
 I participated as a Business Analyst, responsible for requirements analysis, user flow design, API definition, and documentation (BRD/SRS, use cases, BPMN).
 
 Mockup: https://www.figma.com/design/h8AqQFhIsUCxThh4v2lVBA/Linh-L%C3%A2m-s-Project--Easygo?node-id=0-1&t=huWJTE7bk814Ad4i-1
+
 Document: 
 BRD + SRS: https://drive.google.com/file/d/1MgMCXU7Z6jl9lbHcdkR5GBVG54DeS6NZ/view?usp=sharing
 
