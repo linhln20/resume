@@ -3,6 +3,7 @@
 My name is Lam Ngoc Linh. If you can see this words. That mean I'm opening to work.
 ## Experience
 Despite being a latecomer to the IT Business Analyst, I have accumulated over six years of diverse professional experience across multiple domains, including business, administration, marketing, accounting, CRM, retail, HR, and education.
+I started my IT career in QA, which helped me build a strong foundation in system behavior and requirement validation, before moving into a Business Analyst with over three years of experience in Fintech, Trading, and SaaS products.
 
 Personality:
 - Analytical mindset with strong problem-solving capabilities and attention to detail.
@@ -17,17 +18,18 @@ EasyGo is a mobile application that aggregates and compares ride options from mu
 The project focuses on optimizing user experience, standardizing APIs across partners, and ensuring accurate fare comparison in real time.
 I participated as a Business Analyst, responsible for requirements analysis, user flow design, API definition, and documentation (BRD/SRS, use cases, BPMN).
 
-Mockup: https://app.visily.ai/projects/d6d092f5-81e1-408e-b39a-22821eeafd2e/boards/2410495
-
+Mockup: https://www.figma.com/design/h8AqQFhIsUCxThh4v2lVBA/Linh-L%C3%A2m-s-Project--Easygo?node-id=0-1&t=huWJTE7bk814Ad4i-1
 Document: 
 BRD + SRS: https://drive.google.com/file/d/1MgMCXU7Z6jl9lbHcdkR5GBVG54DeS6NZ/view?usp=sharing
 
 ## Why I tranfer to a Business Analyst?
-My background is business, marketing. But I start with start up companies. I have opportunity to join in website development, where I have to become a fullstack as BA, Tester. 
-I started as a Tester, and throughout my work, I naturally stepped into BA responsibilities — asking questions, identifying system gaps, and proposing improvements. 
+My background is in business and marketing, and I began my career in startup environments where roles often required flexibility and cross-functional involvement. Through participating in website development projects, I gradually took on multiple responsibilities, working as both a Tester and a Business Analyst.
 
-My manager, Mr. Quang, recognized my potential and mentored me toward becoming a Business Analyst.
-I’ve realized that the BA role is the right path for me, and I am fully committed to pursuing it. I started a Business Analysis course in September 2025 and will complete it by the end of February 2026.
+I started formally as a Tester, but over time, I naturally grew into BA responsibilities by asking questions, identifying system gaps, and proposing improvements. My manager, Mr. Quang, recognized my potential and guided me toward the Business Analyst path.
+
+Through this journey, I realized that the BA role is the right direction for me. It allows me to create greater value for projects while making full use of my existing skills, strengths, and business-oriented mindset. I am fully committed to pursuing this career path.
+
+
 ## Why choose me?
 Although I don’t come from an IT background, I successfully developed four company websites — Kaleidoscope, DigiNexus, GreenDS, and Dakmark — from A to Z while I was a staff member. Each project was delivered within 2 to 6 months, even though I had no formal technical training. 
 
